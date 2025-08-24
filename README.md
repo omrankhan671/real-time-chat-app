@@ -1,4 +1,10 @@
-# 📡 Real-time Chat App
+# 📡 Real-time Chat Application
+*company*: CODTECH IT SOLUTIONS
+*NAME*: MOHAMMED OMRAN KHAN
+*INTERN ID*: CT04DZ1880
+*DOMAIN*: FRONTENT DEVELOPMENT
+*DURATION*: 4 WEEKS
+*MENTOR*: NEELA SANTOSH
 
 A responsive real-time chat application built with React.js (frontend), Node.js + WebSockets (backend), MongoDB (persistence), and JWT (authentication).
 
